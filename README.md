@@ -39,4 +39,4 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## 6. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-- Developer / Support Email: [Bossの連絡用メールアドレスを記載]
+- Developer / Support Email: nekobananaofficial@gmail.com
